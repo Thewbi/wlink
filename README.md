@@ -39,7 +39,7 @@ C:\Users\U5353\Documents\txt\COFF\NASM\alink\ALINK.EXE -oPE hello.obj "C:\Progra
 
 -- THIS WORKS! (you have to download the specific WIN32.LIB from here: http://alink.sourceforge.net/download.html)
 C:\Users\U5353\Documents\txt\COFF\NASM\alink\ALINK.EXE -oPE -subsys con hello.obj -entry GobleyGook "C:\Users\U5353\Documents\txt\COFF\NASM\win32lib\WIN32.LIB"
-alink_wobi.exe -oPE -subsys con hello.obj -entry GobleyGook "C:\Users\U5353\Documents\txt\COFF\NASM\win32lib\WIN32.LIB"
+wlink.exe -oPE -subsys con hello.obj -entry GobleyGook "C:\Users\U5353\Documents\txt\COFF\NASM\win32lib\WIN32.LIB"
 ```
 
 Error Output:
