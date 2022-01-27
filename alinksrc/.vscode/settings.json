@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "ALINK.C": "cpp",
+        "COMBINE.C": "cpp",
+        "OUTPUT.C": "cpp",
+        "OBJLOAD.C": "cpp",
+        "COFF.C": "cpp"
+    }
+}
